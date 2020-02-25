@@ -44,5 +44,5 @@ def total_even_pairs(src)
   
   element_index = 0 
   while element_index < src.count do 
-    if src[element_index][0]%2 && src[element_index]
+    if src[element_index][0]%2 && src[element_index][1] %2 
 end
